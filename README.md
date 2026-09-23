@@ -163,3 +163,4 @@ AyuScan/
 - The SpO2 algorithm uses `std`-based AC extraction with a physiological ratio gate (`0.3 ≤ R ≤ 1.0`) to reject motion artifacts without the distortion caused by bandpass filtering.
 - Heart Rate uses `scipy.signal.find_peaks` on a rolling 5-second IR buffer with `width` filtering to reject dicrotic notch double-detection.
 - BPM and SpO2 both use EMA smoothing (α = 0.1) for stable display.
+...
