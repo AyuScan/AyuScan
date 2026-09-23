@@ -8,7 +8,7 @@ A real-time wearable health monitoring system using Seeed XIAO ESP32-C6, BioAmp 
 
 | Component | Purpose |
 |---|---|
-| Seeed XIAO ESP32-C6 | BLE data acquisition |
+| Seeed XIAO ESP32-C6 | BLE data acquisitions |
 | BioAmp EXG Pill | ECG signal |
 | MAX30102 | PPG / SpO2 / Heart Rate |
 | MLX90614 (GY-906) | Skin & Ambient Temperature |
